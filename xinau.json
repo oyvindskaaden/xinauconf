@@ -1,0 +1,12 @@
+{
+	"SynPS/2 Synaptics TouchPad":
+	{
+		"libinput Tapping Enabled":1,
+		"libinput Natural Scrolling Enabled":1,
+		"libinput Accel Speed":-0.4
+	},
+	"TPPS/2 Elan TrackPoint":
+	{
+		"libinput Accel Speed":-0.4
+	}
+}
